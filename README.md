@@ -1,0 +1,1 @@
+The Microblog project is a web application that allows users to post short messages, follow other users, and interact with each other's posts. This project is built as part of the [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) series by Miguel Grinberg.
